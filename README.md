@@ -5,9 +5,8 @@
 
 A curated selection of interesting repositories.
 
-## Web Development
-- [vercel/next.js](https://github.com/vercel/next.js) – The React Framework.
-- [facebook/react](https://github.com/facebook/react) – A JavaScript library for building user interfaces.
+## LLMs, Models
+- [HRM/Hierarchical Reasoning Model](https://github.com/sapientinc/HRM) - HRM 
 
 ## Data Science
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) – Machine learning in Python.
