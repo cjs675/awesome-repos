@@ -8,6 +8,9 @@ good repos.
 ## LLMs, Models
 - [HRM/Hierarchical Reasoning Model](https://github.com/sapientinc/HRM) - HRM 
 
+## Solana 
+- [Meridian-App](https://www.meridian.app/i/solana) - Meridian: PerplexityAI meets Solana 
+
 ## Data Science
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) – Machine learning in Python.
 
