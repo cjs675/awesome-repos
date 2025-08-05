@@ -3,7 +3,7 @@
 
 # My GitHub Compendium
 
-A curated selection of interesting repositories.
+good repos.
 
 ## LLMs, Models
 - [HRM/Hierarchical Reasoning Model](https://github.com/sapientinc/HRM) - HRM 
